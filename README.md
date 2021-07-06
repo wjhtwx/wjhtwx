@@ -8,7 +8,7 @@
 
 - 📫 How to reach me：wjhtwx@outlook.com、www.csdn.net、www.juejin.cn、icq
 
-全网同号，CSDN（www.csdn.net）、掘金（www.juejin.cn），icq（www.icq.com、web.icq.com）都可以找到我。
+全网同号，CSDN（[www.csdn.net](https://www.csdn.net)）、掘金（[www.juejin.cn](https://www.juejin.cn)），icq（[www.icq.com](https://www.icq.com)、[web.icq.com](https://web.icq.com)）都可以找到我。
 
 只有icq是正经的聊天软件，其它的都是开发者社区。
 
